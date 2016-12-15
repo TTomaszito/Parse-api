@@ -1,2 +1,6 @@
 # Parse-api
-service that detects clients  ip, os, and language
+
+Service that detects clients  ip, os, and language.
+
+live on heroku:
+https://ttomaszito-parseapi.herokuapp.com/
