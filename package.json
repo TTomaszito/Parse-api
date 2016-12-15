@@ -1,0 +1,18 @@
+{
+  "name": "parserapi",
+  "version": "1.0.0",
+  "description": "get your system info ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ip": "^1.1.4",
+    "ipware": "^1.0.0",
+    "ua-parser": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ttomaszito",
+  "license": "ISC"
+}
